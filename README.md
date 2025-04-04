@@ -14,7 +14,7 @@ See `/charts/` folder for:
 - Time vs Energy Output
 
 ##  Project Report
-A full technical document is available in `/docs/Project_Report.pdf`
+A full technical document is available in `[/docs/Project_Report.pdf](https://ericsson-my.sharepoint.com/:b:/r/personal/vignesh_r_ericsson_com1/Documents/Desktop/PM/Vertical%20Axis%20Wind%20Turbine.pdf?csf=1&web=1&e=alraLC)`
 
 ##  Diagrams
 - [Prototype Image](link)
